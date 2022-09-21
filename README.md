@@ -35,8 +35,8 @@
 
 
 <div>
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcoDmc&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoDmc&hide=html&layout=compact&theme=gotham&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=encodedbrain&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=encodedbrain&hide=html&layout=compact&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
 
 <div> 
@@ -44,7 +44,7 @@
 
 
  
-  ![Snake animation](https://github.com/marcosDmc/marcosDmc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/encodedbrain/encodedbrain/blob/output/github-contribution-grid-snake.svg)
 
  
 </div>
