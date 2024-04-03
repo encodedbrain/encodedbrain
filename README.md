@@ -53,10 +53,6 @@ const marcoAttributes = marco.getProps();
 console.log(marcoAttributes);
 
 ```
-
-<img align="right" width="300" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" />
-
-
 ## Linguagens e ferramentas
 
 <img src="https://skillicons.dev/icons?i=typescript,nodejs,mysql,mongodb,nestjs,dotnet,postgresql,express,aws,git,docker" />
