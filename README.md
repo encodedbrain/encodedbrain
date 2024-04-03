@@ -52,7 +52,7 @@ const marco = new Person();
 
 ## Linguagens e ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,js,mysql,mongodb,angular,react,vue,tailwind,next,sass,vscode" />
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,mysql,mongodb,nestjs,dotnet,postgresql,express,aws,git,docker" />
 
 ## Status
 
