@@ -28,8 +28,8 @@ class Developer {
   private set() {
     this.props.name = "Marco Damasceno";
     this.props.acknowledgements = "Developer Web";
-    this.props.skills.languages = ["C#", "Javascript"];
-    this.props.skills.frameworks = ["Angular", "React", "Next", "Vue"];
+    this.props.skills.languages = ["C#", "Javascript","Typescript];
+    this.props.skills.frameworks = [".NET", "Nest"];
     this.props.skills.primarySkillset = [
       "Comunicação",
       "Resolução de problemas",
